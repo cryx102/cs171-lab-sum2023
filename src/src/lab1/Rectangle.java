@@ -1,3 +1,5 @@
+package lab1;
+
 public class Rectangle {
     private double L,H,x,y;
 
@@ -12,7 +14,7 @@ public class Rectangle {
         return L;
     }
 
-    public void setL(double l) {
+    public void setLength(double l) {
         L = l;
     }
 

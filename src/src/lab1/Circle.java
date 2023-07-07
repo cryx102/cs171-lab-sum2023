@@ -1,3 +1,5 @@
+package lab1;
+
 public class Circle {
     protected double radius;
     protected double x,y;
