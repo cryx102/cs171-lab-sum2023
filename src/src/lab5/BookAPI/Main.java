@@ -1,4 +1,4 @@
-package cs171.sum2023.lab5.BookAPI;
+package lab5.BookAPI;
 
 class Main {
 

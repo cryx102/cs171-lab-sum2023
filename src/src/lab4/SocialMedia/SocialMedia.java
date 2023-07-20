@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.SocialMedia;
+package lab4.SocialMedia;
 public abstract class SocialMedia {
     // Method to post a status
     public abstract void postStatus(String status);

@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.SocialMedia;
+package lab4.SocialMedia;
 public interface Commentable {
     // Method to add a comment
     void addComment(String comment);

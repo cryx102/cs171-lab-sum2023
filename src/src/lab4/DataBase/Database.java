@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.DataBase;
+package lab4.DataBase;
 public abstract class Database {
     // Method to connect to the database
     public abstract void connect();

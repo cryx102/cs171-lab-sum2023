@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.DataBase;
+package lab4.DataBase;
 public class Main {
     public static void main(String[] args) {
         // Create a PostgresDatabase object

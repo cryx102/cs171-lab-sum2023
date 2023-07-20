@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.Abstraction;
+package lab4.Abstraction;
 
 // An abstract class
 

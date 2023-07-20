@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.SocialMedia;
+package lab4.SocialMedia;
 
 public class Twitter extends SocialMedia implements Commentable {
 

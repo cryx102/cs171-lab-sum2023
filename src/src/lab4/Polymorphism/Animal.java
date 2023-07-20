@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.Polymorphism;
+package lab4.Polymorphism;
 
 public class Animal {
     String type;

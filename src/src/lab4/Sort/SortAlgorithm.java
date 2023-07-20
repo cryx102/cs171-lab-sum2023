@@ -1,4 +1,4 @@
-package cs171.sum2023.lab4.Sort;
+package lab4.Sort;
 public abstract class SortAlgorithm {
     // Method to sort the array
     public abstract int[] sort(int[] array);
